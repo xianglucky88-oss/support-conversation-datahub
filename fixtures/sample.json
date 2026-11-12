@@ -1,0 +1,5 @@
+[
+  {"message_id":"msg-1","conversation_id":"case-1","occurred_at":"2026-01-02T10:00:00Z","channel":"chat","author_type":"customer","text":"My email is alice@example.com and I need help."},
+  {"message_id":"msg-2","conversation_id":"case-1","occurred_at":"2026-01-02T10:02:00Z","channel":"chat","author_type":"agent","text":"We will investigate your request."},
+  {"message_id":"msg-3","conversation_id":"case-2","occurred_at":"2026-01-02T11:00:00Z","channel":"email","author_type":"customer","text":"Call me at +1 555 222 3333."}
+]

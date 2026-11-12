@@ -1,0 +1,7 @@
+[project]
+name = "support-conversation-datahub"
+version = "0.1.0"
+requires-python = ">=3.11"
+
+[project.scripts]
+support-conversation-datahub = "support_conversation.cli:main"
